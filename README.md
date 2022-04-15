@@ -12,6 +12,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrpc&layout=compact)](https://github.com/gabrielrpc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrpc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, quero poder mudar a vida das pessoas através da programação.
