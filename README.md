@@ -1,9 +1,5 @@
 ### Olá eu sou o Gabriel Carvalho ✌️ 
 
-<br/>
-
-![Gabriel Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrpc&show_icons=true&theme=dracula)
-
 ## Tecnologias que uso no meu dia-a-dia
 
 <div style="display: inline_block"> <br/>
@@ -13,6 +9,9 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrpc&layout=compact)](https://github.com/gabrielrpc/github-readme-stats)
 
 Apaixonado por tecnologia, quero poder mudar a vida das pessoas através da programação.
