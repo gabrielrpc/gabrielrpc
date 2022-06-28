@@ -13,4 +13,4 @@
 <br/>
 
 
-Apaixonado por tecnologia, quero poder mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia.
