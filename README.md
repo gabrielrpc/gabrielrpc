@@ -11,4 +11,6 @@ Desenvolvedor FullStack ✌️
     <img align="center" alt="react" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="react" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
     <img align="center" alt="react" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+    <br/>
+    <img align="center" alt="react" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
